@@ -14,13 +14,13 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2018
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/profile.png'
+author: 'KyonN'
+nickname: 'wxc'
+bio: '普通水平软件工程师'
+avatar: '/assets/img/pig.png'
 
 # Search
 search: true
@@ -49,10 +49,7 @@ postPatterns: 'seaOfClouds'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  github: '//github.com/Kyon-N'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
